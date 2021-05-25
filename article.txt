@@ -6,6 +6,10 @@ Here's some text and more text. And here's some more insight for our introductio
 
 Add new paragraph.
 
+Section 2
+
+Here is a new section.
+
 Conclusion
 
 This is the best conclusion that we can make. 
