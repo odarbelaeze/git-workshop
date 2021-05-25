@@ -2,11 +2,11 @@ Our best article ever
 
 Introduction
 
-Here's some text and more text. And here's some more insight for our introduction.
-
-Add new paragraph.
+Here's some text and more text.
 
 More and more introduction.
+
+Add an outline of the rest of the article.
 
 Section 1
 
