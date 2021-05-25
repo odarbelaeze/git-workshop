@@ -16,6 +16,10 @@ Section 2
 
 Here is a new section.
 
+Section 3
+
+Some changes go into section 3.
+
 Conclusion
 
 This is the best conclusion that we can make. 
